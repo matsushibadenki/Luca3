@@ -15,3 +15,9 @@ from . import tools
 from . import value_evolution
 from . import pipelines
 from . import engine
+from . import cognitive_modeling
+from . import digital_homeostasis
+from . import idle_manager
+from . import internal_dialogue
+from . import meta_intelligence
+from . import utils
